@@ -1,7 +1,5 @@
 package add
 
-//#cgo CFLAGS: -I${SRCDIR} -march=native
-//#cgo LDFLAGS: -L${SRCDIR} -lnumber
 //#include "number.h"
 import "C"
 
